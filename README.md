@@ -59,12 +59,12 @@ The goal is to analyze churn patterns, identify high-risk customer segments, and
 3. Use slicers to explore churn patterns and retention opportunities.
 
 ## Files
-- `telecom_retention_dashboard.pbix` — Power BI project
+- `telecom-customer-retention-insights.pbix` — Power BI project
 - `dashboard_full.png` — Full dashboard screenshot
 - `dashboard_kpis_filters.png` — KPIs and slicers
 - `dashboard_churnrate_insights.png` — Tenure + Region churn visuals
 - `dashboard_revenue_service.png` — Revenue by contract + service distribution
-- `telecom_retention_dashboard.pdf` — Printable dashboard (optional)
+- `telecom-customer-retention-insights.pdf` — Printable dashboard 
 
 ## License
 This repository is for portfolio and educational purposes. The dataset is publicly available.
